@@ -1,7 +1,7 @@
 # Efeito-de-particulas
 Pequeno teste em JS
 
-![particles preview](https://j.gifs.com/xnQ8mJ.gif "teste preview")
+![particles preview](https://j.gifs.com/xnQ8mJ.gif)
 
 Etapas:
 - Garanta que a aplicação esteja rodando em um Live Server. No meu caso, utilizo a extensão criada por Ritwick Dey.
