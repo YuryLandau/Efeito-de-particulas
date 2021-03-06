@@ -6,7 +6,7 @@ Pequeno teste em JS
 Etapas:
 - Garanta que a aplicação esteja rodando em um Live Server. No meu caso, utilizo a extensão criada por Ritwick Dey.
 - Criar um index.html
-- Criar uma div#particles-js
+- Incluir uma div com o id que será chamado posteriormente:
 ```html
 <div id="particles-js"></div>
 ```
