@@ -1,7 +1,7 @@
 # Efeito-de-particulas
 Pequeno teste em JS
 
-<iframe src='//gifs.com/embed/particles-xnQ8mJ' frameborder='0' scrolling='no' width='1326px' height='628px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![particles preview](https://j.gifs.com/xnQ8mJ.gif "teste preview")
 
 Etapas:
 - Garanta que a aplicação esteja rodando em um Live Server. No meu caso, utilizo a extensão criada por Ritwick Dey.
