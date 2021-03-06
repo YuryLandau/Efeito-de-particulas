@@ -1,12 +1,11 @@
 # Efeito-de-particulas
-Pequeno teste em JS
 
 ![particles preview](https://github.com/YuryLandau/Efeito-de-particulas/blob/main/src/img/preview.gif)
 
 Etapas:
 - Garanta que a aplicação esteja rodando em um Live Server. No meu caso, utilizo a extensão criada por Ritwick Dey.
 - Criar um index.html
-- Incluir uma div com o id que será chamado posteriormente:
+- Incluir uma div com o id que será chamado posteriormente, pois ela será utilizada como canvas:
 ```html
 <div id="particles-js"></div>
 ```
