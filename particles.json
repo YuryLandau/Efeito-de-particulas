@@ -41,7 +41,7 @@
             "width": 1.5
         },
         "move": {
-            "speed": 13,
+            "speed": 10,
             "bounce": false,
             "out_mode": "bounce",
             "attract": {
