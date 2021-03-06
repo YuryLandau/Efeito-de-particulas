@@ -29,3 +29,6 @@ particlesJS.load('container_id', 'arquivo_de_config.json', callbackFunction(){
 });
 ```
 - A partir deste momento, é necessário configurar o arquivo particles.json, afim de exibir as particulas da forma desejada.
+
+Créditos: Este pequeno projeto foi feito com o intuito de testar algumas funcionalidades do github.
+Toda sua estrutura foi retirada do tutorial [How to add an awesome README to your GitHub Profile](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n#section-2) de [Satvik Chachra](https://github.com/satvikchachra)
