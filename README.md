@@ -28,4 +28,4 @@ particlesJS.load('container_id', 'arquivo_de_config.json', callbackFunction(){
     console.log('particles.js config carregado');
 });
 ```
-- A partir deste momento, é necessário configurar o arquivo particles.json afim de exibir as particulas da forma desejada.
+- A partir deste momento, é necessário configurar o arquivo particles.json, afim de exibir as particulas da forma desejada.
