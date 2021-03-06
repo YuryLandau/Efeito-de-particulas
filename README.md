@@ -4,8 +4,7 @@
 
 Etapas:
 - Garanta que a aplicação esteja rodando em um Live Server. No meu caso, utilizo a extensão criada por Ritwick Dey.
-- Criar um index.html
-- Incluir uma div com o id que será chamado posteriormente, pois ela será utilizada como canvas:
+- Crie um aquivo index.html e inclua uma div com o id que será chamado posteriormente, pois ela será utilizada como canvas:
 ```html
 <div id="particles-js"></div>
 ```
@@ -28,6 +27,8 @@ particlesJS.load('container_id', 'arquivo_de_config.json', callbackFunction(){
 });
 ```
 - A partir deste momento, é necessário configurar o arquivo particles.json, afim de exibir as particulas da forma desejada.
+
+Demais detalhes sobre como preparar o ambiente, além de todas as opções para se utilizar no "particles.json", se econtram no repositório original de [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
 
 Créditos: Este pequeno projeto foi feito com o intuito de testar algumas funcionalidades do github.
 Toda sua estrutura foi retirada do tutorial [How to add an awesome README to your GitHub Profile](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n#section-2) de [Satvik Chachra](https://github.com/satvikchachra)
