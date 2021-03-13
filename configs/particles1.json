@@ -11,9 +11,9 @@
             "value": "#99FF00"
         },
         "shape":{
-            "type": "edge",
+            "type": "star",
             "stroke": {
-                "width": 20,
+                "width": 10,
                 "color": "#DD00AA"
             },
             "image": {
@@ -26,20 +26,21 @@
             "value": 10,
             "random": false,
             "anim":{
-                "enable": false,
+                "enable": true,
                 "speed": 80,
-                "size_min": 0.1
+                "size_min": 0
             }
         },
         "line_linked": {
-            "distance":150,
-            "opacity":0.2,
-            "color": "#99FF00",
+            "distance":250,
+            "opacity":0.9,
+            "color": "#FFFFFF",
             "width": 3.5
         },
         "move": {
             "speed": 15,
-            "bounce": true,
+            "bounce": false,
+            "out_mode": "bounce",
             "attract": {
                 "enable": true,
                 "rotateX": 600,
